@@ -17,9 +17,13 @@
     echo "Nom : Alami<br>";
     echo "Prénom : Sara<br>";
     echo "Groupe : Groupe 2<br>";
-    ?>
 
-    <?= "Ceci est la dernière phrase affichée avec la syntaxe courte PHP." ?>
+    // Commentaire sur une ligne
+    /* Commentaire sur
+    plusieur
+    lignes*/
+    
+    <?= "Phrase affichée avec la syntaxe courte PHP." ?>
 
 </body>
 </html>
