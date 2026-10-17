@@ -22,6 +22,7 @@
     /* Commentaire sur
     plusieur
     lignes*/
+    ?>
     
     <?= "Phrase affichée avec la syntaxe courte PHP." ?>
 
